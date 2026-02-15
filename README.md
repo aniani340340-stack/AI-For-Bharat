@@ -1,5 +1,4 @@
 🚀 SkillForge AI
-
 AI-Powered Skill-to-Career Ecosystem for Bharat
 
 Transforming learners into job-ready professionals through personalized AI guidance.
